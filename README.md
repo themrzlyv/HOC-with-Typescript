@@ -1,2 +1,2 @@
-# higher_order_component
-Created with CodeSandbox
+# HOC
+Higher order component with Typescript
